@@ -2,7 +2,7 @@
 
 ##Broker란?
 ### Topic과 Partition을 유지 및 관리해주는 소프트웨어
-- partition에 대한 Read 및 Writer를 관리힘
+- partition에 대한 Read 및 Writer를 관리함
 - Topic 내의 Partition들을 분산, 유지 및 관리해줌
 - Kafka Server라고 부르기도 함
 - 각각의 Broker들은 ID로 식별된다(ID는 숫자)
